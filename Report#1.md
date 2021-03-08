@@ -7,7 +7,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* https://github.com/AnastasiiaGanieva/HomeJava/issues/1
+* [Валидные ключи не соответствуют установленной валидации: OK] (https://github.com/AnastasiiaGanieva/HomeJava/issues/1)
 * https://github.com/AnastasiiaGanieva/HomeJava/issues/2
 
 ## Описание процесса тестирования
